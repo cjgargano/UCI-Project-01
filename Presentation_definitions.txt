@@ -1,0 +1,27 @@
+Points - sum of goals and assists for each player.
+Points per game - average points each player scores per game.
+Salary cap - limit on the amount of money that a team can spend on players' salaries.
+Cap hit - the total money a player will earn in regular salary over the life of the contract divided by the number of years it is effective.
+Handedness - which way the player shoots; either right handed or left handed
+Slap shot - a hard shot made by raising the stick about waist-high before striking the puck with a sharp slapping motion.
+Wrist shot - a type of shot in which the puck is swept along the ice against the stick and then released with a rotating motion of the wrists.
+Backhand shot - a shot taken from the backside of the blade.
+Snap shot -  is accomplished with a quick snap of the wrists while the puck rests in place. The difference between a snap shot and a wrist shot is that the stick blade is accelerated towards the puck from a small distance behind it.
+Deflection - a shot that changes direction because of the puck making contact with a player or a piece of equipment, for example a stick or skate.
+Wrap around - this is when the offensive player who has the puck skates around the back of the opponent’s goal, then come back around front and attempts a shot on goal.
+Scoring percentage by shot type - total goals scored divided by each shot type.
+UFA - unrestricted free agents are players with expired contracts that have completed four or more accrued seasons of service. They are free to sign with any franchise.
+RFA - restricted free agents are players have special restrictions on the terms under which they can retain or change employment status with teams.
+OTH - country grouping that contains countries with less than 5 current players.
+Goals for - total goals the team scores while player is on the ice.
+Goals against - total goals a team concedes while player is on the ice.
+Draft round - round in which the player was chosen to thier respective teams. 
+Blocked shots - shots that were stopped before reaching the goal by players other than the goaltenders.
+Takeaways - occurs when pressure from the defending team results in a defending player gaining possession of the puck.
+Corsi stat - is an advanced statistic used in the National Hockey League to measure shot attempt differential while at even strength play. This includes shots on goal, missed shots on goal, and blocked shot attempts towards the opposition's net minus the same shot attempts directed at your own team's net.
+Position - either forward or defense; there are 3 forwards and 2 defensemen per team on the ice when a team is at full strength.
+Dangerous shots - are shots that are taken on the rush shots and shots that generate rebounds.
+Time on ice - cumulative time the player is one the ice.
+GWG - Game winning goal - goal that puts the team in the lead, that results in a win.
+
+
